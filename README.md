@@ -2,7 +2,7 @@
 This is the part of the Great India Hackathon where we have to predict the unit price of the products using different variables.
 The current pandemic has dwindled the data science job market likewise recruiters are also facing difficulties filtering the right talent. To bridge this gap we bring a chance for the MachineHack community to compete for jobs with some of the key analytics players for a rewarding career in Data Science. In this competition, we are challenging the MachineHack community to come up with an algorithm to predict the price of retail items belonging to different categories. Foretelling the Retail price can be a daunting task due to the huge datasets with a variety of attributes ranging from Text, Numbers(floats, integers), and DateTime. Also, outliers can be a big problem when dealing with unit prices.
 
-**** Top 50 Rank ****
+**Top 50 Rank
 
 # Overview
 1. Cleaned the data by removing the outliers, covert date data to datetime data type, check for data validity, etc
